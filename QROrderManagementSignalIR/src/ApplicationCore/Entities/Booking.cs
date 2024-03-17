@@ -8,5 +8,12 @@ namespace ApplicationCore.Entities
 {
     public class Booking : BaseEntity
     {
+        public string Name { get; set; } = null!;
+        public string Surname { get; set; } = null!;
+        public string Phone { get; set; } = null!;
+        public string Email { get; set; } = null!;
+        public string Message { get; set; } = null!;
+        public int PersonCount { get; set; }
+        public DateTime Date { get; set; } = DateTime.Now;
     }
 }

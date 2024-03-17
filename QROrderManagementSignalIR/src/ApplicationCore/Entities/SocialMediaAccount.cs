@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Category : BaseEntity
+    public class SocialMediaAccount : BaseEntity
     {
         public string Name { get; set; } = null!;
-        public bool Status { get; set; }
+        public string Link { get; set; } = null!;
+        public string Icon { get; set; } = null!;
     }
 }
