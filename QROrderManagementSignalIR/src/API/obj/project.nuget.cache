@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "j++5CvXnxlg8I5UomwxEHiXb39GBazJcNodkxKsZvNjbTWBZJc3V0xy9YNYqSjviYqresT/JFMuryTCIKe0Q9Q==",
+  "dgSpecHash": "QP6a9pmKRWADXtK2HfKCOJMbO1zPQ6hfnh4uj/5+KA/6LV037Cc/nCrrc9Gy1MDAf/PCteAJdpwFAaZ8CCLiGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\8.0.0\\ardalis.specification.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\LenovoPC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LenovoPC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\LenovoPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

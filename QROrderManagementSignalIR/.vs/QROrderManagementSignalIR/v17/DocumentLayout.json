@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51FE5206-EC21-4668-A1A5-58D43F9B038F}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\lenovopc\\documents\\github\\qr-order-management-asp.net-core-signalr\\qrordermanagementsignalir\\src\\infrastructure\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FE5206-EC21-4668-A1A5-58D43F9B038F}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FE5206-EC21-4668-A1A5-58D43F9B038F}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\lenovopc\\documents\\github\\qr-order-management-asp.net-core-signalr\\qrordermanagementsignalir\\src\\infrastructure\\data\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FE5206-EC21-4668-A1A5-58D43F9B038F}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A775AF43-FA85-48F6-BAFB-4A8FF89AE2E4}|src\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\lenovopc\\documents\\github\\qr-order-management-asp.net-core-signalr\\qrordermanagementsignalir\\src\\applicationcore\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A775AF43-FA85-48F6-BAFB-4A8FF89AE2E4}|src\\ApplicationCore\\ApplicationCore.csproj|solutionrelative:src\\applicationcore\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A775AF43-FA85-48F6-BAFB-4A8FF89AE2E4}|src\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\lenovopc\\documents\\github\\qr-order-management-asp.net-core-signalr\\qrordermanagementsignalir\\src\\applicationcore\\entities\\socialmediaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51FE5206-EC21-4668-A1A5-58D43F9B038F}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\lenovopc\\documents\\github\\qr-order-management-asp.net-core-signalr\\qrordermanagementsignalir\\src\\infrastructure\\data\\context\\qrordermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FE5206-EC21-4668-A1A5-58D43F9B038F}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\context\\qrordermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A775AF43-FA85-48F6-BAFB-4A8FF89AE2E4}|src\\ApplicationCore\\ApplicationCore.csproj|C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\applicationcore\\entities\\socialmediaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A775AF43-FA85-48F6-BAFB-4A8FF89AE2E4}|src\\ApplicationCore\\ApplicationCore.csproj|solutionrelative:src\\applicationcore\\entities\\socialmediaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:50:33.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Infrastructure\\Data\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Repository\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Infrastructure\\Data\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Repository\\EfRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:37:49.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QROrderManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Infrastructure\\Data\\Context\\QROrderManagementDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Context\\QROrderManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Infrastructure\\Data\\Context\\QROrderManagementDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Context\\QROrderManagementDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:36:12.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\ApplicationCore\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\ApplicationCore\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\ApplicationCore\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "src\\ApplicationCore\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T20:17:47.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SocialMediaAccount.cs",
               "DocumentMoniker": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\ApplicationCore\\Entities\\SocialMediaAccount.cs",
               "RelativeDocumentMoniker": "src\\ApplicationCore\\Entities\\SocialMediaAccount.cs",

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "efnJ9tZlQap5u2RnuFvkV4EqPqg7gxqqkbIeyM7tpDE8RH1QIVW6Hl16QobuLtsaR8UBO0l2QzoyyxbYpscfIQ==",
+  "dgSpecHash": "QUn/XftuH1ZDpKaw6/KzRsbss3sp5H13Kyd3HmixdIK0QdnudPDaaSjuoyl2VlvA0JCSdKBS4SME0UzY+0e7Zg==",
   "success": true,
   "projectFilePath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\8.0.0\\ardalis.specification.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\LenovoPC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LenovoPC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\LenovoPC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

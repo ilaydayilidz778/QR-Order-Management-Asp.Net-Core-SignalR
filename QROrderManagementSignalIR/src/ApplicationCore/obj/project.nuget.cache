@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dn5xl5u3T3mrsa/Sp6SMc47hxXu4n+kPB0idKQ24sgpKNUFw1ity+8Ar3KmjRkknWGgP01FgBiV6WHkV9l0rZw==",
+  "dgSpecHash": "TmbYw3OflQsmbaI0qQjd9LQjFe4zN4ancR9DDRQmpcjtUhzkUiZi+g+Q+FYCHQ2YobxUGqxsZ8Yiz+b+F11G7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\ApplicationCore\\ApplicationCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
