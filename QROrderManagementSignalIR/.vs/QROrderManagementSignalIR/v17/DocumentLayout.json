@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A775AF43-FA85-48F6-BAFB-4A8FF89AE2E4}|src\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\lenovopc\\desktop\\qrordermanagementsignalir\\src\\applicationcore\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A775AF43-FA85-48F6-BAFB-4A8FF89AE2E4}|src\\ApplicationCore\\ApplicationCore.csproj|solutionrelative:src\\applicationcore\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 139,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\ApplicationCore\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\ApplicationCore\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\ApplicationCore\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "src\\ApplicationCore\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T18:56:00.212Z",
-              "EditorCaption": ""
             }
           ]
         },

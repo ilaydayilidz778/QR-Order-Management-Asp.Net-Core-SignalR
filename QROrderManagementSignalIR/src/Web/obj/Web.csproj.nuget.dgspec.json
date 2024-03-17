@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\Web\\Web.csproj": {}
+    "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\Web\\Web.csproj": {
+    "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\LenovoPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\Web\\obj\\",
+        "outputPath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LenovoPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

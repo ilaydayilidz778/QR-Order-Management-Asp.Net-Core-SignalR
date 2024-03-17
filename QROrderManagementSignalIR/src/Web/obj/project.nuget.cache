@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+L7Glfw/X5PdY8J277983J234HqxCq0WslXYilf8Cbuqept6Gh4MJwYgkikXkV9GZdFkSu9KihoQpHypL3dKg==",
+  "dgSpecHash": "Pjnr4rqig7YaQ3GPd8vtLZE+W2alyel53aH1fFmG3jj1X5GjXh+W2uu3RnmmAXmdZFwqkcnswXWKTAeq8XdIMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\Web\\Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

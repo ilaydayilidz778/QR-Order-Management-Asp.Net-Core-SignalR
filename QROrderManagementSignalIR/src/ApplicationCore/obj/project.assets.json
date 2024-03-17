@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\ApplicationCore\\ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\ApplicationCore\\ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\LenovoPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LenovoPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

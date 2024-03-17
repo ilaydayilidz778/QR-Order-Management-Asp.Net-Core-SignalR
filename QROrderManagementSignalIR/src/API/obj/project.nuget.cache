@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hkEme02V7MmUq4B5DmPplLvRP7K4qTKHn/Rt4PimW7/9cAKRXBqmdwSFLJoo70gkuvO8TkSWlt+z6s5rGfBziQ==",
+  "dgSpecHash": "pBv6ggveIXtouzTbjsj/1DIzVmxOjvSRbPMRP8XTISrVTBGbPyk1Fl9zntQrrqgGiUzuKJsrJCCUdZcNWfjUMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\LenovoPC\\Documents\\GitHub\\QR-Order-Management-Asp.Net-Core-SignalR\\QROrderManagementSignalIR\\src\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LenovoPC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\LenovoPC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
