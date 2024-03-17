@@ -1,0 +1,11 @@
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+C:\Users\LenovoPC\Desktop\QROrderManagementSignalIR\src\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll

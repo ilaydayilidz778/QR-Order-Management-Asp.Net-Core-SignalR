@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hkEme02V7MmUq4B5DmPplLvRP7K4qTKHn/Rt4PimW7/9cAKRXBqmdwSFLJoo70gkuvO8TkSWlt+z6s5rGfBziQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LenovoPC\\Desktop\\QROrderManagementSignalIR\\src\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\LenovoPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
